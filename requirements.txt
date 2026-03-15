@@ -1,0 +1,9 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+SQLAlchemy==2.0.37
+aiosqlite==0.20.0
+asyncpg==0.30.0
+redis==5.2.1
+pydantic-settings==2.7.1
+python-jose[cryptography]==3.3.0
+email-validator==2.2.0
